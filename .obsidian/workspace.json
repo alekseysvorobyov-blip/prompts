@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KSK 09 Like Me.md",
+                "file": "Python deepseek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KSK 09 Like Me"
+              "title": "Python deepseek"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KSK 09 Like Me.md",
+                "file": "Python deepseek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for KSK 09 Like Me"
+              "title": "Backlinks for Python deepseek"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KSK 09 Like Me.md",
+                "file": "Python deepseek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from KSK 09 Like Me"
+              "title": "Outgoing links from Python deepseek"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KSK 09 Like Me.md",
+                "file": "Python deepseek.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of KSK 09 Like Me"
+              "title": "Outline of Python deepseek"
             }
           }
         ]
@@ -185,6 +185,12 @@
   },
   "active": "003beb2dba28b48c",
   "lastOpenFiles": [
+    "python-assistant-core.md",
+    "Python deepseek.md",
+    "python-assistant-ref.md",
+    "python-assistant-ref.md.opdownload",
+    "python-assistant-core.md.opdownload",
+    "KSK 09 Like Me.md",
     "python-assistant-v1.md.opdownload",
     "python-assistant-v1.md",
     "КСК 08 Like You.md",
